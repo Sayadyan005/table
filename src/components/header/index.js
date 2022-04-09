@@ -9,3 +9,5 @@ function Header ({text}){
 }
 
 export default Header;
+
+console.log("helloworld")
